@@ -1,10 +1,11 @@
 #include<GL/glut.h>
 #include<stdio.h>
+//Hacktober
 
 GLint ww=200, wh=200;
 GLint x1=0,y1=0,x2=0,y2=0,gx1=0,gx2=0,gy1=0,gy2=0;
 GLint count = 0;
-
+GLint counttt = 0;
 void init(void)
 {
  glClearColor(1.0,1.0,1.0,0.0);
